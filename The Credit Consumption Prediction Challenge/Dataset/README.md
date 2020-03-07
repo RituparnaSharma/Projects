@@ -2,7 +2,9 @@
 
 # Variable	Description
 ID	--Unique ID for every Customer
+
 account_type --Account Type – current or saving
+
 gender	--Gender of customer
 age	--Age of customer
 region_code	--Code assigned to region of residence (has order)
