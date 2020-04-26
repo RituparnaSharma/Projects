@@ -8,6 +8,11 @@
    I did this project to find the positive and negative sentiments delivered through the live twitter comments.Here I 
   used some data mining algorithms and some python libraries and finally, I got almost 72curacy after training those data 
   models.
+  
+  3.Predict virality of news papers article using web scrapping
+  
+   This project is all about web scrapping and machine learning. In this project I crawl some newspapers article and predicted the virality of 
+   those news article on the basis of a supervised dataset named as OnlineNewsPolarity.
    
 
 
