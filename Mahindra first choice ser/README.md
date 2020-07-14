@@ -8,6 +8,6 @@ Mahindra would now like to leverage the data that they have and address the key 
 ## OBJECTIVES
   ### <u>Geolocation Based Customer Analysis:</u>
   
-   ***_ - The idea is to explore how various factors like car make & model, time and type of service etc.vary with location. Since the servicing industry is local in    nature, this kind of an analysis could possibly render some really interesting business insights._***
+   - ***_The idea is to explore how various factors like car make & model, time and type of service etc.vary with location. Since the servicing industry is local in    nature, this kind of an analysis could possibly render some really interesting business insights._***
 
-   ***_Mahindra First Choice Services will be benefited in multiple ways. Knowing the ownership pattern targeted marketing campaigns could be carried out. Knowing the spending patterns services could be suited to the particular spending pattern._***
+  - ***_Mahindra First Choice Services will be benefited in multiple ways. Knowing the ownership pattern targeted marketing campaigns could be carried out. Knowing the spending patterns services could be suited to the particular spending pattern._***
