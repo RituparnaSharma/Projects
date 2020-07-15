@@ -15,4 +15,4 @@ Mahindra would now like to leverage the data that they have and address the key 
 
   ### Market Segmentation:
    - ***_Customer Lifetime value prediction - Based on Customer segments, predict the revenue that can be extracted from each segment over a life of the car-Regression/Time Series._***
-   - ***_This would be beneficial to Mahindra First Choice Services to identify the various segments in the market. Also, these segmentations would allow for targeted marketing activities and sales_***
+   - ***_This would be beneficial to Mahindra First Choice Services to identify the various segments in the market. Also, these segmentations would allow for targeted marketing activities and sales promotions._***
