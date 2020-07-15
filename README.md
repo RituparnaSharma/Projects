@@ -17,7 +17,7 @@
   
   - **Mahindra First Choice Service:**
   
-   _this was our one of the capstone project.where we tried to extract insights about customer behaviour._ 
+    _this was our one of the capstone project.where we tried to extract insights about customer behaviour._ 
    
    
 
