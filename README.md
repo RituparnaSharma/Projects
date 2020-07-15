@@ -12,7 +12,7 @@
   
   - **Predict virality of news papers article using web scrapping**
   
-   _This project is all about web scrapping and machine learning. In this project I crawl some newspapers article and predicted the virality of 
+    _This project is all about web scrapping and machine learning. In this project I crawl some newspapers article and predicted the virality of 
    those news article on the basis of a supervised dataset named as OnlineNewsPolarity._
   
   - **Mahindra First Choice Service:**
