@@ -1,9 +1,9 @@
-## The dataset consist of three aspects:##
+## The dataset consist of three aspects:
 
 ___
 
-  ***_1. Customer data: where the details of the customer like the car owned, state and place
-of residence, order type, etc are present. Data dimension is of 534000 Customer entries._***
+  _1. Customer data: where the details of the customer like the car owned, state and place
+of residence, order type, etc are present. Data dimension is of 534000 Customer entries._
 
   ***_2. Invoice data: where information related to customer visits and transactions are
 recorded, whether a customer as insurance claims, bifurcation of the amount paid, for
