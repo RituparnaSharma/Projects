@@ -84,8 +84,7 @@ Before Preprocessing |After Preprocessing|
 
 |model |technique |Train F1 score |Test F1 Score |
 |--------------------|-------------------|--------------------|-------------------|
-***| Logistic Regression       | Count vectorizer | 0.65 | 0.68 |***
-
+| ***Logistic Regression***      | ***Count vectorizer*** | ***0.65*** | ***0.68***|
 | Logistic Regression       | Count vectorizer + steeming | 0.64 | 0.66 |
 | Logistic Regression       | Count vectorizer + Lemitization | 0.64 | 0.64 |
 | Logistic Regression       | Tf-Idf | 0.65 | 0.65 |
