@@ -14,9 +14,9 @@
 
 ## OBJECTIVES
 
-#####_This is a simple sentiment analysis prediction model.In this repository there are two model.each model is building on different dataset.
+##### _This is a simple sentiment analysis prediction model.In this repository there are two model.each model is building on different dataset.
 
-First dataset is scrabed from [Stanford Sentiment 140 datset](http://help.sentiment140.com/for-students) ,out of 1.6 million sample i used only 10945 samples due to low computational memory.
+_First dataset is scrabed from [Stanford Sentiment 140 datset](http://help.sentiment140.com/for-students) ,out of 1.6 million sample i used only 10945 samples due to low computational memory._
 
 > ***First Model configuration***
 
@@ -25,7 +25,7 @@ First dataset is scrabed from [Stanford Sentiment 140 datset](http://help.sentim
 - Labels:['Positive','Negative','Neutral']
 - Highest Accuracy: 72.3
 
-_Second model was the part of a hackathon.where we have given a dataset regarding on an event callled ***South by Southwest***(SXSW) held at austin.
+_Second model was the part of a hackathon.where we have given a dataset regarding on an event callled ***South by Southwest***(SXSW) held at austin._
 > ***Second Model configuration***
 
 - Data type : 'text'
