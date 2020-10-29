@@ -51,11 +51,11 @@ Before Preprocessing |After Preprocessing|
 <br>
 </br>
 
-> ***Overall sentiment of the event**
+> ***Overall sentiment of the event***
 <br>
 </br>
 <p align="center">
-  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pi%20diagram.png'>
+  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pi%20diagram-crop.png'>
 </p>
 
 > ***Frequently used words***
