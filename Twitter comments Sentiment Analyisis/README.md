@@ -17,7 +17,7 @@
 _This is a simple sentiment analysis prediction model.In this repository there are two model.each model is building on different dataset.
 First dataset is scrabed from ### scholl out of 1.5 million sample i used only 1700 samples due to low computational memory.
 
-*** > First Model configuration***
+***>First Model configuration***
 
 - data type='text'
 - no of tweet:
