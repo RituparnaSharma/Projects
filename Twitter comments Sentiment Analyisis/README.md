@@ -55,13 +55,12 @@ Before Preprocessing |After Preprocessing|
 <br>
 </br>
 <p align="center">
-  <img width="100%" height="100%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pi%20diagram.png'>
+  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pi%20diagram.png'>
 </p>
-<br>
-</br>
+
 > ***Frequently used words***
 <p align="center">
-  <img width="100%" height="100%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words.png'>
+  <img width="70%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words.png'>
 </p>
 <br>
 </br>
