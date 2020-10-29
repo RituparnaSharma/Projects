@@ -14,21 +14,25 @@
 
 ## OBJECTIVES
 
-_This is a simple sentiment analysis prediction model.In this repository there are two model.each model is building on different dataset.
-First dataset is scrabed from ### scholl out of 1.5 million sample i used only 1700 samples due to low computational memory.
+#####_This is a simple sentiment analysis prediction model.In this repository there are two model.each model is building on different dataset.
+
+First dataset is scrabed from [Stanford Sentiment 140 datset](http://help.sentiment140.com/for-students) ,out of 1.6 million sample i used only 10945 samples due to low computational memory.
 
 > ***First Model configuration***
 
-- data type='text'
-- no of tweet:
-- labels:
-_Second model was the part of a hackathon.where we have given a dataset regarding an event callled SXSW held at austin.In first model I have got almost 72 percent accuarcy where as in the second model I have got 68 percent accuracy .
+- Data type: 'text'
+- No of tweet: 10945
+- Labels:['Positive','Negative','Neutral']
+- Highest Accuracy: 72.3
+
+_Second model was the part of a hackathon.where we have given a dataset regarding on an event callled ***South by Southwest***(SXSW) held at austin.
 > ***Second Model configuration***
 
-- data type='text'
-- no of train tweet: 7274
-- no of test tweet: 1819
-- labels:{'Positive':,'Negative':,'Neutral':}
+- Data type : 'text'
+- No of train tweet : 7274
+- No of test tweet : 1819
+- Labels : {'Positive': 2,'Negative': 0,'Neutral': 1,'Can't Say: 3'}
+- Highest Accuracy : 68.5
 
 ## About SXSW DATASET:
 <br>
