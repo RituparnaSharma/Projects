@@ -23,10 +23,15 @@ This repo is the used to make a model on sentiment summerizer. This tool utilize
 
 ## Data Directory
 
-`-- data                        # under workspace 
+``` bash
+`-- data                                 # under workspace 
     |-- checkpoint
-    |   |-- config.json         # BERT config file
-    |   |-- model.bin 
-    |   |-- kaggle.json         # BERT model file
-    |   |-- vocab.txt              # vocabulary file
-    `-- text_filtering_using_bert.ipynb  # train and valid data file
+    |   |-- config.json                  # BERT config file
+    |   |-- model.bin                    # BERT model file
+    |   |-- kaggle.json                  # kaggle API 
+    |   |-- vocab.txt                    # vocabulary file
+    |-- text_filtering_using_bert.ipynb  # train and valid data file
+```
+## config
+
+
