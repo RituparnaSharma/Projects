@@ -1,1 +1,1 @@
-<img align='center' src='https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/franchisor/mahindra-first-choice-services_1.png'/>[Twitter sentiment analysis]
+<img align='center' src='https://drive.google.com/file/d/1r4hDOoQAQ818MyctAM3mbxfDK_Me6kAJ/view?usp=sharing'/>
