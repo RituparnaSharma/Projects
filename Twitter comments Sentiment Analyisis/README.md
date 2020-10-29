@@ -30,12 +30,19 @@ _Second model was the part of a hackathon.where we have given a dataset regardin
 - labels:
 
 ## About SXSW DATASET:
-> ***Steps involved in preprocessing and cleanning
+
+> ***Steps involved in preprocessing and cleanning***
 
 Before Preprocessing |After Preprocessing|
 |--------------------|-------------------|
-|User Mentions       |User Mentions With @ are removed|
-
+| User Mentions       | User Mentions With @ are removed |
+| HTML character such as '&lt','&gt' | converted to their appropriate signs '<','>' |
+| Emojis :) (: | converted to word such as Happy,Sad etc |
+| urls and links | Removed (only 3% at most tweet has URL's) |
+| Abbreviations 'b4','gr8' | Converted to full forms |
+| Non-ASCII characters | Removed |
+| Long word such as 'Woooooo','Funnyyy' | Corrected to their proper Forms 'Wow','Funny' |
+| Stop words and Punctuation | Removed |
 
 
 
