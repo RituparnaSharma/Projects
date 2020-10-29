@@ -2,7 +2,10 @@
   <img width="30%" height="30%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-roundcorner.png'>
 </p>
 <p align='center'>
-  <h2 align='center'>An Approach to twitte sentiment Analysis</h2>
+  <h2 align='center'>An Approach to twitter sentiment Analysis</h2>
 </p>
+<br>
+</br>
+## OBJECTIVES
 
 
