@@ -8,8 +8,8 @@
 </br>
 
 ## DEMO
-<p align="center">
-  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/tweet_ui.png'>
+<p align="left">
+  <img width="70%" height="70%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/tweet_ui.png'>
 </p>
 
 ## OBJECTIVES
