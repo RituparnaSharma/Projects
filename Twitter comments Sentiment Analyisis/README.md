@@ -63,11 +63,30 @@ Before Preprocessing |After Preprocessing|
   <img width="70%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words-crop.png'>
 </p>
 <br>
-</br>
+,/br</br>
 
 > ***Sponsers of the event***
+<br>
+</br>
 <p align="left">
   <img width="50%" height="70%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(1).png'>
   <br>
   </br>
   <img width="50%" height="70%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(2).png'>
+<br>
+</br>
+> ***Models Training and Testing***
+<br>
+</br>
+
+|model |technique |Train F1 score |Test F1 Score |
+|--------------------|-------------------|--------------------|-------------------|
+<mark>| Logistic Regression       | Count vectorizer | 0.65 | 0.68 |</mark>
+| Logistic Regression       | Count vectorizer + steeming | 0.64 | 0.66 |
+| Logistic Regression       | Count vectorizer + Lemitization | 0.64 | 0.64 |
+| Logistic Regression       | Tf-Idf | 0.65 | 0.65 |
+| Logistic Regression       | Tf-Idf + Lemitization | 0.62 | 0.65 |
+| SVC     | Tf-Idf + Lemitization | 0.65 | 0.68 |
+| Gaussian Naive Bayes       | Count vectorizer | 0.49 | 0.47 |
+| Random Forrest     | Count vectorizer | 0.65 | 0.63 |
+| XGBoost       | With Hyperparameter tuning and random oversampling | 0.84 | 0.66 |
