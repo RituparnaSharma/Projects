@@ -16,17 +16,18 @@
 
 This is a simple sentiment analysis prediction model.In this repository there are two model.each model is building on different dataset.
 First dataset is scrabed from ### scholl out of 1.5 million sample i used only 1700 samples due to low computational memory.
-_>Model configuration:
+>Model configuration
+
 - data type='text'
 - no of tweet:
 - labels:
    
 where as other model was a part of a hackathon.where we have given a dataset regarding an event callled SXSW held at austin.In first model I have got almost 72 percent accuarcy where as in the second model I have got 68 percent accuracy .
 >Model configuration
-   -data type='text'
-   -no of tweet:
-   -labels:
-   
+
+- data type='text'
+- no of tweet:
+- labels:
 ## language and libraries:
 
 
