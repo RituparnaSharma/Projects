@@ -54,13 +54,13 @@ Before Preprocessing |After Preprocessing|
 > ***Overall sentiment of the event***
 <br>
 </br>
-<p align="center">
+<p align="left">
   <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pi%20diagram-crop.png'>
 </p>
 
 > ***Frequently used words***
-<p align="center">
-  <img width="70%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words.png'>
+<p align="left">
+  <img width="70%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words-crop.png'>
 </p>
 <br>
 </br>
