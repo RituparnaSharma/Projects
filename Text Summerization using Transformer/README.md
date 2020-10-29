@@ -10,6 +10,8 @@
  
 This repo is the used to make a model on sentiment summerizer. This tool utilizes the HuggingFace Pytorch transformers library to run extractive summarizations. This works by first embedding the sentences, then classify its starting and ending index of summerized text to get the summerize output.The advantage of using this repo is computation time,due to its smart batching technique its create a great differnce in between compuration time and performnce also.
 
+####(smart batching technique is used to reduce the number of trainable parameters.Where each text is being paded to the maximuminput length of each batch,which reduce the number of parameter will be used) 
+
 -Datset : https://www.kaggle.com/c/tweet-sentiment-extraction/
 
 ## Requirements
