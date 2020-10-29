@@ -32,7 +32,9 @@ _Second model was the part of a hackathon.where we have given a dataset regardin
 ## About SXSW DATASET:
 <br>
 </br>
+
 > ***Steps involved in preprocessing and cleanning***
+
 <br>
 </br>
 
@@ -58,8 +60,6 @@ Before Preprocessing |After Preprocessing|
 <br>
 </br>
 > ***Frequently used words***
-<br>
-</br>
 <p align="center">
   <img width="100%" height="100%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words.png'>
 </p>
