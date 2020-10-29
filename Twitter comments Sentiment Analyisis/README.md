@@ -44,6 +44,11 @@ Before Preprocessing |After Preprocessing|
 | Long word such as 'Woooooo','Funnyyy' | Corrected to their proper Forms 'Wow','Funny' |
 | Stop words and Punctuation | Removed |
 
+<p align="left">
+  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pepsi%20big.png'>
+  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pepsi.png'>
+</p>
+
 
 
 
