@@ -57,10 +57,12 @@ Before Preprocessing |After Preprocessing|
 </p>
 <br>
 </br>
-> ***Frequently used words**
-
+> ***Frequently used words***
+<br>
+</br>
 <p align="center">
   <img width="100%" height="100%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words.png'>
 </p>
-
+<br>
+</br>
 
