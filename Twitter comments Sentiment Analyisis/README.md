@@ -89,7 +89,28 @@ Before Preprocessing |After Preprocessing|
 | Logistic Regression       | Count vectorizer + Lemitization | 0.64 | 0.64 |
 | Logistic Regression       | Tf-Idf | 0.65 | 0.65 |
 | Logistic Regression       | Tf-Idf + Lemitization | 0.62 | 0.65 |
-| SVC     | Tf-Idf + Lemitization | 0.65 | 0.68 |
+| ***SVC***    | ***Tf-Idf + Lemitization*** | ***0.65*** | ***0.68*** |
 | Gaussian Naive Bayes       | Count vectorizer | 0.49 | 0.47 |
 | Random Forrest     | Count vectorizer | 0.65 | 0.63 |
 | XGBoost       | With Hyperparameter tuning and random oversampling | 0.84 | 0.66 |
+
+<br>
+</br>
+
+> ***Final Insights***
+
+<br>
+</br>
+- The event overall had a positive and neutral impact.
+- There was a slight negative impact due to earthquake happened in Japan.
+- Market small promising brands more.
+
+## Technologies used
+
+<br>
+</br>
+<p align="left">
+  <img width="70%" height="70%" src='hhttps://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(4).png'>
+</p>
+  
+
