@@ -132,11 +132,25 @@ Before Preprocessing |After Preprocessing|
 
 ***_[See Publication](https://www.ijcseonline.org/full_paper_view.php?paper_id=3219)_***
 
+
+ <br>
+</br>
+
+## Presentation link:
+
+ <br>
+</br>
+
+   ***_[Go to ppt](https://drive.google.com/file/d/1qRM-cH7fLMLz8dExS7UKkMmxEoXgSKIu/view?usp=sharing)_***
+
+ <br>
+</br>
+
 ## Achivements
 
 
  <br>
 </br>
 
-***_[WINNER](https://greyatom.com/certificates/GA-1RWF9QX0J)_***
+***_[WINNER WINNER CHIKEN DINNER](https://greyatom.com/certificates/GA-1RWF9QX0J)_***
 
