@@ -23,18 +23,19 @@ First dataset is scrabed from ### scholl out of 1.5 million sample i used only 1
 - no of tweet:
 - labels:
 _Second model was the part of a hackathon.where we have given a dataset regarding an event callled SXSW held at austin.In first model I have got almost 72 percent accuarcy where as in the second model I have got 68 percent accuracy .
-*** > Second Model configuration***
+> ***Second Model configuration***
 
 - data type='text'
 - no of tweet:
 - labels:
 
 ## About SXSW DATASET:
-*** > Steps involved in preprocessing and cleanning
+> ***Steps involved in preprocessing and cleanning
 
 Before Preprocessing |After Preprocessing|
 |--------------------|-------------------|
-      
+|User Mentions       |User Mentions With @ are removed|
+
 
 
 
