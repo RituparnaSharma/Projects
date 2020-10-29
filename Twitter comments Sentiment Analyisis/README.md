@@ -16,7 +16,7 @@
 
 ##### This is a simple sentiment analysis prediction model.In this repository there are two model.each model is building on different dataset.
 
-_First dataset is scrabed from [Stanford Sentiment 140 datset](http://help.sentiment140.com/for-students) ,out of 1.6 million sample i used only 10945 samples due to low computational memory._
+_First dataset is scrabed from [Stanford Sentiment 140 dataset](http://help.sentiment140.com/for-students) ,out of 1.6 million sample i used only 10945 samples due to low computational memory._
 
 > ***First Model configuration***
 
