@@ -63,9 +63,10 @@ Before Preprocessing |After Preprocessing|
   <img width="70%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/frequent%20words-crop.png'>
 </p>
 <br>
-,/br</br>
+</br>
 
 > ***Sponsers of the event***
+
 <br>
 </br>
 <p align="left">
@@ -75,7 +76,9 @@ Before Preprocessing |After Preprocessing|
   <img width="50%" height="70%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(2).png'>
 <br>
 </br>
+
 > ***Models Training and Testing***
+
 <br>
 </br>
 
