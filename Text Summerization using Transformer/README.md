@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Text%20Summerization%20using%20Transformer/Images/circle-cropped(1).png'>
+  <img width="30%" height="30%" src='https://github.com/RituparnaSharma/Projects/blob/master/Text%20Summerization%20using%20Transformer/Images/circle-cropped(1).png'>
 </p>
