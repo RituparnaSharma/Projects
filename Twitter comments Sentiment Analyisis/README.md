@@ -67,5 +67,7 @@ Before Preprocessing |After Preprocessing|
 
 > ***Sponsers of the event***
 <p align="left">
-  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(1).png'>
-  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(2).png'>
+  <img width="50%" height="70%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(1).png'>
+  <br>
+  </br>
+  <img width="50%" height="70%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-merged-image(2).png'>
