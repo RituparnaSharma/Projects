@@ -26,8 +26,9 @@ _Second model was the part of a hackathon.where we have given a dataset regardin
 > ***Second Model configuration***
 
 - data type='text'
-- no of tweet:
-- labels:
+- no of train tweet: 7274
+- no of test tweet: 1819
+- labels:{'Positive':,'Negative':,'Neutral':}
 
 ## About SXSW DATASET:
 <br>
