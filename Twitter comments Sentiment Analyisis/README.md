@@ -1,1 +1,1 @@
-<img align='center' src='https://drive.google.com/file/d/1r4hDOoQAQ818MyctAM3mbxfDK_Me6kAJ/view?usp=sharing'/>asd
+<img align='center' src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/imageonline-co-roundcorner.png'/>asd
