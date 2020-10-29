@@ -64,4 +64,7 @@ Before Preprocessing |After Preprocessing|
 </p>
 <br>
 </br>
-
+> ***Sponsers of the event***
+<p align="left">
+  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/pepsi.png'><img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/apple.png'><img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/google.png'><img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/microsoft.png'>
+  <img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/samrtwater.png'><img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/plaid.png'><img width="50%" height="50%" src='https://github.com/RituparnaSharma/Projects/blob/master/Twitter%20comments%20Sentiment%20Analyisis/Imagses/mashable.png'>
