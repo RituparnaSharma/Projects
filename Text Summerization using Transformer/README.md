@@ -12,7 +12,7 @@ This repo is used to build a model on sentiment summation. This tool uses the Hu
 
 
 
-#### (smart batching technique is used to reduce the number of trainable parameters.Where each text is being paded to the maximum input length of each batch,which reduce the number of parameter will be used)
+#### (A smart batching technique is used to reduce the number of train parameters. Any text anywhere is being padded to the maximum input length of each batch, which will reduce the number of parameters.)
 
 - Dataset : https://www.kaggle.com/c/tweet-sentiment-extraction/
 
