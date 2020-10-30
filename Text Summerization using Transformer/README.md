@@ -8,7 +8,9 @@
  
  ## About
  
- This repo is the used to make a model on sentiment summarizer. This tool utilizes the Hugging Face Pytorch transformers library to run extractive summarizations. This works by first embedding the sentences, then classify its starting and ending index of summerized text to get the summerize output. The advantage of using this repo is computation time, due to its smart batching technique its create a great difference in between computation time and performance also.
+This repo is used to build a model on sentiment summation. This tool uses the Hugging Face Pytorek Transformer library to run extractive summaries. It works by embedding sentences first, then classifying their initial and final indexes of the consolidated text to obtain a synchronized output. The advantage of using this repo is the computation time, there is also a considerable difference between computation time and performance due to its smart batching technique.
+
+
 
 #### (smart batching technique is used to reduce the number of trainable parameters.Where each text is being paded to the maximum input length of each batch,which reduce the number of parameter will be used)
 
