@@ -72,7 +72,6 @@ Parameters|Value|
 
 
 ***_[Jay Alammar -- ](http://jalammar.github.io/illustrated-bert/)_*** _Illustrated example of Bert._
-attention all you neeed
 
 
 ***_[Abhishek Thakur -- ](https://www.kaggle.com/abhishek)_*** _This Project would not have been possible without his vertual assitance.most of code I used in this repo is taken from his kaggle [NoteBook](https://www.kaggle.com/abhishek/bert-base-uncased-using-pytorch)._
