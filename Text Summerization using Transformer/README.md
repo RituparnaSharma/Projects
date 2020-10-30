@@ -12,7 +12,7 @@ This repo is the used to make a model on sentiment summerizer. This tool utilize
 
 #### (smart batching technique is used to reduce the number of trainable parameters.Where each text is being paded to the maximum input length of each batch,which reduce the number of parameter will be used)
 
--Datset : https://www.kaggle.com/c/tweet-sentiment-extraction/
+- Dataset : https://www.kaggle.com/c/tweet-sentiment-extraction/
 
 ## Requirements
 - Python 3.6.5+
@@ -64,13 +64,16 @@ Parameters|Value|
 <br>
 </br>
 
-## credit
+## credits
+<br>
+</br>
 
-hugging face
-
+***_[Attention is all you Need -- ](https://arxiv.org/abs/1706.03762)_*** Thanks to the Authors of this paper for their ammzing contribution in the field of NLP.
 attention all you neeed
 
-jay alamar bert
+
+***_[Jay Alammar -- ](http://jalammar.github.io/illustrated-bert/)_*** Thanks to the Authors of this paper for their ammzing contribution in the field of NLP.
+attention all you neeed
 
 ABHishek thakkur 
 
