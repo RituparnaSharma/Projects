@@ -37,6 +37,7 @@ This repo is the used to make a model on sentiment summerizer. This tool utilize
 ## config
 <br>
 </br>
+
 Parameters|Value|
 |--------------------|-------------------|
 | Model    | ***'bert-base-uncased'*** |
@@ -53,5 +54,24 @@ Parameters|Value|
 </br>
 
 ## Technologies used 
+<br>
+</br>
+
+<p align="center">
+  <img width="30%" height="30%" src='https://github.com/RituparnaSharma/Projects/blob/master/Text%20Summerization%20using%20Transformer/Images/Technologies.png'>
+</p>
+
+<br>
+</br>
 
 ## credit
+
+hugging face
+
+attention all you neeed
+
+jay alamar bert
+
+ABHishek thakkur 
+
+kaggle notebbok
