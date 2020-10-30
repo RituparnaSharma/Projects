@@ -70,10 +70,10 @@ Parameters|Value|
 <br>
 </br>
 
-***_[Attention is all you Need -- ](https://arxiv.org/abs/1706.03762)_*** _Thanks to the Authors of this paper for their ammzing contribution in the field of NLP._
+***_[Attention is all you Need -- ](https://arxiv.org/abs/1706.03762)_*** _Thanks to the Authors of this paper for their ammzing contribution to the field of NLP._
 
 
 ***_[Jay Alammar -- ](http://jalammar.github.io/illustrated-bert/)_*** _Illustrated example of Bert._
 
 
-***_[Abhishek Thakur -- ](https://www.kaggle.com/abhishek)_*** _This Project would not have been possible without his vertual assitance.most of code I used in this repo is taken from his kaggle [NoteBook](https://www.kaggle.com/abhishek/bert-base-uncased-using-pytorch)._
+***_[Abhishek Thakur -- ](https://www.kaggle.com/abhishek)_*** _This Project would not have been possible without his vertual assitance.Most of the code that I have used in this repo is taken from his  [NoteBook](https://www.kaggle.com/abhishek/bert-base-uncased-using-pytorch)._
