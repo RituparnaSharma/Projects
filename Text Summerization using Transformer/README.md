@@ -35,6 +35,22 @@ This repo is the used to make a model on sentiment summerizer. This tool utilize
     |-- text_filtering_using_bert.ipynb  # train and valid data file
 ```
 ## config
+<br>
+</br>
+Parameters|Value|
+|--------------------|-------------------|
+| Model    | ***'bert-base-uncased'*** |
+| Embedding Dimension | 768 |
+| Output Dimension| 2 |
+| Train batch size | 32 |
+| Test batch size | 8 |
+| Tokenizer | BertWordPieceTokenizer |
+| Optimizer | AdamW |
+| Learning Rate | 3e-5 |
+| loss Function | BCEWithLogitsLoss |
+
+<br>
+</br>
 
 ## Technologies used 
 
