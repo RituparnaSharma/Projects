@@ -57,8 +57,8 @@ Parameters|Value|
 <br>
 </br>
 
-<p align="center">
-  <img width="30%" height="30%" src='https://github.com/RituparnaSharma/Projects/blob/master/Text%20Summerization%20using%20Transformer/Images/Technologies.png'>
+<p align="left">
+  <img width="70%" height="100%" src='https://github.com/RituparnaSharma/Projects/blob/master/Text%20Summerization%20using%20Transformer/Images/Technologies.png'>
 </p>
 
 <br>
