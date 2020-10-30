@@ -8,7 +8,7 @@
  
  ## About
  
-This repo is used to build a model on sentiment summation. This tool uses the Hugging Face Pytorek Transformer library to run extractive summaries. It works by embedding sentences first, then classifying their initial and final indexes of the consolidated text to obtain a synchronized output. The advantage of using this repo is the computation time, there is also a considerable difference between computation time and performance due to its smart batching technique.
+This repo is used to build a model on sentiment summation. This tool uses the Hugging Face Pytorch Transformer library to run extractive summaries. It works by embedding sentences first, then classifying their initial and final indexes of the consolidated text to obtain a summarized output. The advantage of using this repo is the computation time, there is also a considerable difference between computation time and performance due to its smart batching technique.
 
 
 
